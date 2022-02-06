@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-05T23:17:57 EET" name="Default suite" finished-at="2022-02-05T23:18:34 EET" duration-ms="36758">
+    <groups>
+    </groups>
+    <test started-at="2022-02-05T23:17:57 EET" name="Default test" finished-at="2022-02-05T23:18:34 EET" duration-ms="36758">
+      <class name="registiration.Facebook.seleniumTest.RegistirationFacebook">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:registiration.Facebook.seleniumTest.RegistirationFacebook@26b3fd41]" started-at="2022-02-05T23:17:57 EET" name="openurl" finished-at="2022-02-05T23:18:08 EET" duration-ms="11019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="case00_login()[pri:0, instance:registiration.Facebook.seleniumTest.RegistirationFacebook@26b3fd41]" started-at="2022-02-05T23:18:08 EET" name="case00_login" finished-at="2022-02-05T23:18:27 EET" duration-ms="19048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case00_login -->
+        <test-method signature="case03_login_with_test_user()[pri:0, instance:registiration.Facebook.seleniumTest.RegistirationFacebook@26b3fd41]" started-at="2022-02-05T23:18:27 EET" name="case03_login_with_test_user" finished-at="2022-02-05T23:18:34 EET" duration-ms="6667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case03_login_with_test_user -->
+      </class> <!-- registiration.Facebook.seleniumTest.RegistirationFacebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
